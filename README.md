@@ -32,8 +32,4 @@ Welcome to my GitHub profile! I'm passionate about Deep Learning, Machine Learni
 ## 🔢 Additional Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaykelBargouguy&show_icons=true&hide=contribs,prs)
 
-- **Stars:** 33
-- **Commits (2024):** 109
-- **PRs:** 3
-- **Issues:** 0
-- **Contributed (last year):** 1
+
