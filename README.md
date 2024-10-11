@@ -13,9 +13,11 @@ Welcome to my GitHub profile! I'm passionate about Deep Learning, Machine Learni
 - **Cloud:** Azure
 
 ## 📜 Certifications
+- Agent in LangGraph - DeepLearning.AI
 - Deep Learning Specialization - DeepLearning.AI
 - Machine Learning Specialization - DeepLearning.AI
 - Effective MLOps - Weights and Biases
+- AZ900: AI Fundamentals - Microsoft
 - AZ900: Azure Fundamentals - Microsoft
 - CCNA: Introduction to Networks, Switching, Routing, and Wireless Essentials - Cisco
 - Fortinet 1, 2, 3
