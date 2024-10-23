@@ -2,8 +2,8 @@
 Welcome to my GitHub profile! I'm an engineering student at **INSAT Tunisia**, specializing in **Computer Networks and Telecommunications** with a focus on **Machine Learning, Deep Learning, and Data Science**. I work on **Computer Vision**, **Natural Language Processing (NLP)**, and **Large Language Models (LLMs)**, with a particular interest in advancing model capabilities. I also have **knowledge in MLOps**, focusing on streamlining AI workflows. I'm passionate about **research** and staying updated on the latest in AI. Currently, I'm working on **advanced LLM projects** and exploring emerging technologies.
 
 ## Achievements
-- ⭐ Ranked in the **top 3** of my academic cohort.
-- ⭐ Reached the **benchmark** for the **ASVspoof Deepfake Detection competition**, showcasing my ability to work on cutting-edge AI challenges.
+- ⭐ Ranked in the **top 3** of my academic class.
+- ⭐ Reached the **benchmark** for the **ASVspoof Deepfake Detection competition**.
 
 ## 🛠️ Skills
 - **Languages:** Python, Matlab, JavaScript, C, Java, SQL, Bash
