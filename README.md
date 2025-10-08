@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!  
 I’m a **Junior AI/ML Engineer**, recently graduated from **INSAT Tunisia** (top 3 of my class), specializing in **Networks and Telecommunications** with minors in **Machine Learning, Deep Learning, Data Science, Computer Vision, and NLP**.  
 
-I have **1.5+ years of professional experience** in **AI, Generative AI, and LLMs**, building solutions for **industrial scene understanding, intelligent chatbots, conversational assistants, and speech-to-speech interactive agents**. My passion lies in advancing **open-source LLMs**, fine-tuning models for efficiency, and applying AI to **real-world challenges** in industry.  
+I have **1.5+ years of professional experience** in **AI, Generative AI, and LLMs**, building solutions for **industrial scene understanding, intelligent chatbots, conversational assistants, and advanced speech-to-speech interactive agents**. My passion lies in advancing **open-source LLMs**, fine-tuning models for efficiency, and applying AI to **real-world challenges** in industry.  
 
 ---
 
@@ -11,8 +11,9 @@ I have **1.5+ years of professional experience** in **AI, Generative AI, and LLM
 - ⭐ Ranked in the **top 3** of my academic class.  
 - ⭐ Designed and deployed an **AI agentic workflow** for 3D industrial scene understanding at **SAMP (Paris)**.  
 - ⭐ Built **LLM-powered agents, RAG pipelines, and Generative AI chatbots** at **iTransformer365**.  
+- ⭐ Developed an advanced **speech-to-speech multimodal assistant** by combining ASR, TTS, and LLM-driven dialogue.  
 - ⭐ Led **bilingual transcription projects** (WhisperX, Nemo, Pyannote) at **Innovative Realities (England)**.  
-- ⭐ Developed and deployed **sentiment analysis systems** at **ESG Smarter (Canada/Tunis)**.  
+- ⭐ Built and deployed **sentiment analysis systems** at **ESG Smarter (Canada/Tunis)**.  
 - ⭐ Benchmarked advanced models for the **ASVspoof Deepfake Detection competition**.  
 
 ---
@@ -22,24 +23,33 @@ I have **1.5+ years of professional experience** in **AI, Generative AI, and LLM
 ### Core AI/ML  
 - **Languages:** Python, Matlab, JavaScript, TypeScript, C, Java, SQL, Bash  
 - **Frameworks & Libraries:** PyTorch, TensorFlow, Hugging Face, LangChain, LangGraph, OpenCV, FastAPI, Node.js, Angular  
-- **Machine Learning:** Regression, Classification, Clustering, Feature Engineering, Model Evaluation  
-- **Deep Learning Architectures:** CNNs, RNNs, GRUs, LSTMs, Transformers, Attention Mechanisms, Vision Transformers (ViT), YOLO, ResNet  
+- **ML Techniques:** Regression, Classification, Clustering, Feature Engineering, Model Evaluation, Hyperparameter Tuning  
+- **DL Architectures:** CNNs, RNNs, GRUs, LSTMs, Transformers, Attention Mechanisms, Vision Transformers (ViT), YOLO, ResNet  
 
-### Generative AI & LLMs  
-- Fine-tuning with **LoRA, QLoRA, PEFT**  
-- Open-Source LLMs: **LLaMA, DeBERTa, BERT, T5, WhisperX, FasterWhisper, Nemo, Pyannote**  
-- **RAG (Retrieval-Augmented Generation)** pipelines for reliable knowledge integration  
-- **Intelligent Chatbots & Conversational Assistants** (speech-to-speech systems, multimodal AI)  
-- **Prompt Engineering** & multi-agent systems with **LangChain, LangGraph, MultiChain**  
+### Generative AI & Large Language Models  
+- **LLM Fine-Tuning:** LoRA, QLoRA, PEFT, instruction tuning, domain adaptation  
+- **Open-Source Models:** **Mistral, Qwen, LLaMA, DeBERTa, BERT, T5, WhisperX, FasterWhisper, Nemo, Pyannote**  
+- **Deployment:** Worked with **RPoD (RunPod)** and **Ollama server** for efficient local and cloud model hosting  
+- **RAG Pipelines:** Retrieval-Augmented Generation for knowledge-grounded responses  
+- **Prompt Engineering:** Advanced structured prompting, multi-step reasoning  
+- **Agentic Workflows:** Modular multi-agent systems with **LangChain, LangGraph, MultiChain**  
+
+### Conversational AI & Advanced Interactive Agents  
+- **Intelligent Chatbots & Virtual Assistants:** LLM-driven assistants with context-awareness  
+- **Speech-to-Speech Agents:** ASR + TTS + LLM dialogue for **natural multimodal conversations**  
+- **Conversational Intelligence:** Dialogue management, **memory and context management**, emotion-aware responses  
+- **Generative Conversational AI:** Task-oriented and open-domain conversational systems  
+- **Memory Handling:** Long-term memory, vector-store backed memory, and conversation state tracking for continuity  
 
 ### Applied AI Domains  
-- **3D AI & Spatial Understanding**: Point Clouds, Digital Twins, Industrial Scene Understanding  
-- **Audio & Speech Processing**: ASR (Automatic Speech Recognition), TTS (Text-to-Speech), Diarization  
-- **Data Science**: Preprocessing, Data Cleaning, Augmentation, Feature Extraction, Visualization  
+- **3D AI & Spatial Understanding:** 3D Point Clouds, Digital Twins, Spatial Grounding with LLMs  
+- **Audio & Speech Processing:** Diarization, speech enhancement, bilingual transcription  
+- **Data Science:** Preprocessing, Cleaning, Augmentation, Feature Extraction, Visualization  
 
 ### DevOps & Cloud  
-- **DevOps:** Git, Docker, Docker Compose, CI/CD, GitHub, GitLab  
-- **Cloud:** AWS (H100 GPUs, Model Training/Deployment), Azure ML, Azure Virtual Machines  
+- **DevOps Tools:** Git, Docker, Docker Compose, CI/CD, GitHub, GitLab  
+- **Cloud Platforms:** AWS (H100 GPUs, scalable training/deployment), Azure ML, Azure Virtual Machines  
+- **MLOps:** MLflow, Weights & Biases (W&B) for experiment tracking, deployment monitoring  
 
 ---
 
