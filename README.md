@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Haykel Bargougui  
 
 Welcome to my GitHub profile!  
-I’m a **Junior AI/ML Engineer**, recently graduated from **INSAT Tunisia** (top 3 of my class), specializing in **Networks and Telecommunications** with minors in **Machine Learning, Deep Learning, Data Science, Computer Vision, and NLP**.  
+I’m a **Junior AI/ML Engineer**, recently graduated from the **National Institute of Applied Sciences and Technology (INSAT) (top 3 of my class), specializing in **Networks and Telecommunications** with minors in **Machine Learning, Deep Learning, Data Science, Computer Vision, and NLP**.  
 
 I have **1.5+ years of professional experience** in **AI, Generative AI, and LLMs**, building solutions for **industrial scene understanding, intelligent chatbots, conversational assistants, and advanced speech-to-speech interactive agents**. My passion lies in advancing **open-source LLMs**, fine-tuning models for efficiency, and applying AI to **real-world challenges** in industry.  
 
