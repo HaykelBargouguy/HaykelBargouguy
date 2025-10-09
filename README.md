@@ -48,7 +48,7 @@ I have **1.5+ years of professional experience** in **AI, Generative AI, and LLM
 
 ### DevOps & Cloud  
 - **DevOps Tools:** Git, Docker, Docker Compose, CI/CD, GitHub, GitLab  
-- **Cloud Platforms:** AWS & Cloud OVH(H100 GPUs, scalable training/deployment), Azure ML, Azure Virtual Machines  
+- **Cloud Platforms:** AWS & OVH (H100 GPUs, scalable training/deployment), Azure ML, Azure Virtual Machines  
 - **MLOps:** MLflow, Weights & Biases (W&B) for experiment tracking, deployment monitoring  
 
 ---
