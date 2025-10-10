@@ -73,6 +73,4 @@ I have **1.5+ years of professional experience** in **AI, Generative AI, and LLM
 
 ---
 
-## 📈 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HaykelBargouguy&show_icons=true&theme=default)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HaykelBargouguy&layout=compact)  
+
